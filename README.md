@@ -1,1 +1,3 @@
 # astrolabes
+
+some private config
