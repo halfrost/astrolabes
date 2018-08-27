@@ -1,0 +1,42 @@
+{
+    "files.associations": {
+        "*.vue": "javascript"
+    },
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.fontSize": 14,
+    "window.zoomLevel": 0,
+    "sync.gist": "fcf32843",// 这个密钥填自己 github gist token
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastUpload": "2018-08-25T18:05:31.264Z",
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "file-icons",
+    "workbench.editor.tabSizing": "fit",
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "background-position": "100% 100%",
+        "background-repeat": "no-repeat",
+        "opacity": 0.6
+    },
+    // https://img.halfrost.com/vscode/gopher-dance-long-3x.gif
+    // https://img.halfrost.com/vscode/gopher_coffee.gif
+    // https://img.halfrost.com/vscode/ele.me_.png
+    // https://img.halfrost.com/vscode/gopher1_.png
+    // https://img.halfrost.com/vscode/gopher2_.png
+    // https://img.halfrost.com/vscode/gopher3_.png
+    "background.customImages": ["https://img.halfrost.com/vscode/gopher2_.png","https://img.halfrost.com/vscode/gopher1_.png","https://img.halfrost.com/vscode/gopher3_.png"],
+    "background.useDefault": false,
+}
